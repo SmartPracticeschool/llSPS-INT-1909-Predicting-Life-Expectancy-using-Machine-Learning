@@ -270,7 +270,7 @@
                 "rows": null
             },
             {
-                "label": "Diptheria",
+                "label": "Diphtheria",
                 "value": "dipt",
                 "type": "number",
                 "required": true,
@@ -633,7 +633,7 @@
                 "rows": null
             },
             {
-                "label": "Diptheria",
+                "label": "Diphtheria",
                 "value": "dipt",
                 "type": "number",
                 "required": true,
@@ -1136,10 +1136,10 @@
         "width": 0,
         "height": 0,
         "name": "",
-        "label": "Diptheria:",
+        "label": "Diphtheria:",
         "format": "{{msg.payload[8]}}",
         "layout": "row-left",
-        "x": 560,
+        "x": 570,
         "y": 460,
         "wires": []
     },
